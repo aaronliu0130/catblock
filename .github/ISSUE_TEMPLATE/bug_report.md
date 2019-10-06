@@ -35,4 +35,3 @@ assignees: ''
 #### 5. Any other information you think might be useful for us to know?
 
 
-#### 6. Please tell us your browser version.
